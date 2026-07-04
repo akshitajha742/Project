@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gym Management System
 
 A full-stack MERN (MongoDB, Express, React, Node.js) web application for managing gym memberships, admissions, user profiles, product store, and orders. This project is split into two main folders:
@@ -133,3 +134,7 @@ This project is licensed under the MIT License.
 - [Abhirag](https://github.com/Abhirag05)  
 - Internship Project — 2025
 
+=======
+# Project
+This is my first project
+>>>>>>> 751b2111644ef78844ec38e6ee5b2f5d0e7cb87a
